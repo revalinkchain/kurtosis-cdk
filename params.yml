@@ -27,7 +27,7 @@ deploy_cdk_erigon_node: true
 deploy_observability: false
 
 # Deploy Blockscout stack.
-deploy_l2_blockscout: false
+deploy_l2_blockscout: true
 
 # Deploy eth load balancer.
 deploy_blutgang: false
